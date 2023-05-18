@@ -78,7 +78,7 @@
   h4, .pop-content{
       font-size:1em;
   }
-    .container{
+    .container,.popup{
       padding:1em;
       width:250px;
     }
